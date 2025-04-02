@@ -1,0 +1,110 @@
+{
+  "Fiction": [
+    {
+      "id": "f1",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "$14.99",
+      "cover": "https://example.com/midnight-library.jpg",
+      "description": "Between life and death there is a library, and within that library, the shelves go on forever."
+    },
+    {
+      "id": "f2",
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "$16.99",
+      "cover": "https://example.com/evelyn-hugo.jpg",
+      "description": "Aging and reclusive Hollywood movie icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life."
+    }
+  ],
+  "Non-Fiction": [
+    {
+      "id": "nf1",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "$18.99",
+      "cover": "https://example.com/atomic-habits.jpg",
+      "description": "Tiny Changes, Remarkable Results: An Easy & Proven Way to Build Good Habits & Break Bad Ones."
+    },
+    {
+      "id": "nf2",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "price": "$19.99",
+      "cover": "https://example.com/sapiens.jpg",
+      "description": "A Brief History of Humankind"
+    }
+  ],
+  "Science": [
+    {
+      "id": "s1",
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "price": "$15.99",
+      "cover": "https://example.com/brief-history.jpg",
+      "description": "From the Big Bang to Black Holes"
+    },
+    {
+      "id": "s2",
+      "title": "The Elegant Universe",
+      "author": "Brian Greene",
+      "price": "$17.99",
+      "cover": "https://example.com/elegant-universe.jpg",
+      "description": "Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"
+    }
+  ],
+  "Technology": [
+    {
+      "id": "t1",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": "$29.99",
+      "cover": "https://example.com/clean-code.jpg",
+      "description": "A Handbook of Agile Software Craftsmanship"
+    },
+    {
+      "id": "t2",
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "price": "$27.99",
+      "cover": "https://example.com/pragmatic.jpg",
+      "description": "Your Journey to Mastery"
+    }
+  ],
+  "Art & Design": [
+    {
+      "id": "ad1",
+      "title": "The Story of Art",
+      "author": "E.H. Gombrich",
+      "price": "$24.99",
+      "cover": "https://example.com/story-art.jpg",
+      "description": "One of the most famous and popular books on art ever written"
+    },
+    {
+      "id": "ad2",
+      "title": "Ways of Seeing",
+      "author": "John Berger",
+      "price": "$21.99",
+      "cover": "https://example.com/ways-seeing.jpg",
+      "description": "Based on the BBC television series"
+    }
+  ],
+  "Business": [
+    {
+      "id": "b1",
+      "title": "Good to Great",
+      "author": "Jim Collins",
+      "price": "$20.99",
+      "cover": "https://example.com/good-great.jpg",
+      "description": "Why Some Companies Make the Leap...And Others Don't"
+    },
+    {
+      "id": "b2",
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "price": "$22.99",
+      "cover": "https://example.com/zero-one.jpg",
+      "description": "Notes on Startups, or How to Build the Future"
+    }
+  ]
+} 
